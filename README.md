@@ -1,0 +1,1 @@
+In this project the Main.java is the main file where every function runs and remaining all .java files are classes for different categories where the other .java files can't be accessed from anyother class only the main class can access them because they are private. So it provides security and it is a very basic model of online shopping.
